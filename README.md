@@ -13,6 +13,8 @@
 | 5 | [notebooks/lesson01_image_basics.ipynb](notebooks/lesson01_image_basics.ipynb) | 1강 실습 (Colab에서 실행) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mungyom/Vision-AI/blob/claude/project-thread-csjf9x/notebooks/lesson01_image_basics.ipynb) |
 | 6 | [lesson02_theory.md](lesson02_theory.md) | 2강 이론: 전처리 (크기·ROI·블러·이진화·정규화) |
 | 7 | [notebooks/lesson02_preprocessing.ipynb](notebooks/lesson02_preprocessing.ipynb) | 2강 실습 + 1강 문법 보충 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mungyom/Vision-AI/blob/claude/project-thread-csjf9x/notebooks/lesson02_preprocessing.ipynb) |
+| 8 | [lesson03_theory.md](lesson03_theory.md) | 3강 이론: 규칙 기반 검사 (엣지·컨투어·치수 측정) |
+| 9 | [notebooks/lesson03_rule_based_inspection.ipynb](notebooks/lesson03_rule_based_inspection.ipynb) | 3강 실습: 도면 규격 검사기 + 개수 세기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mungyom/Vision-AI/blob/claude/project-thread-csjf9x/notebooks/lesson03_rule_based_inspection.ipynb) |
 
 ## 실행 확인 파일
 
