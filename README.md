@@ -11,6 +11,8 @@
 | 3 | [02_local_setup_windows.md](02_local_setup_windows.md) | 내 PC(Windows)에 Python 설치 + VS Code 실행 방법 |
 | 4 | [lesson01_theory.md](lesson01_theory.md) | 1강 이론: 이미지는 숫자다 |
 | 5 | [notebooks/lesson01_image_basics.ipynb](notebooks/lesson01_image_basics.ipynb) | 1강 실습 (Colab에서 실행) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mungyom/Vision-AI/blob/claude/project-thread-csjf9x/notebooks/lesson01_image_basics.ipynb) |
+| 6 | [lesson02_theory.md](lesson02_theory.md) | 2강 이론: 전처리 (크기·ROI·블러·이진화·정규화) |
+| 7 | [notebooks/lesson02_preprocessing.ipynb](notebooks/lesson02_preprocessing.ipynb) | 2강 실습 + 1강 문법 보충 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mungyom/Vision-AI/blob/claude/project-thread-csjf9x/notebooks/lesson02_preprocessing.ipynb) |
 
 ## 실행 확인 파일
 
